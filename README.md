@@ -1,4 +1,4 @@
-# PCF8574 GPIO Expander Library (C-based)
+# STM32 HAl - PCF8574 GPIO Expander Library (C-based)
 
 This repository provides a C-based library for interfacing with the **PCF8574 I/O Expander** using the **I2C communication protocol**. It's designed to offer a straightforward way to add more digital input/output pins to your microcontroller projects.
 
